@@ -17,3 +17,6 @@ for deep learning models
 # Dataloader_files
 Go to dataloader_files folder and you can see various dataloader based on single EEG, single speech 2D images and multiple dataloader 
 based on EEG and Speech combined 2D images
+
+# Models
+EEG 2D images as well as 1D signal models
