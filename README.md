@@ -20,3 +20,5 @@ based on EEG and Speech combined 2D images
 
 # Models
 EEG 2D images as well as 1D signal models
+
+# Training, testing and validations functions are coming soon
