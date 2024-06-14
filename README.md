@@ -13,6 +13,7 @@ At this stage, only electroencephalogram (EEG) and speech recording data are mad
 # Data_preprocessed_EEGSpeech
 Go to folder and check data preprocessing files. You must downlaod dataset files and csv in order to process the raw dataset
 for deep learning models
+# Added new preprocessing files, you go to eeg prerocessing folder
 
 # Dataloader_files
 Go to dataloader_files folder and you can see various dataloader based on single EEG, single speech 2D images and multiple dataloader 
